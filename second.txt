@@ -1,3 +1,0 @@
-firstline_secondtext
-first line of second file
-second line of second file
